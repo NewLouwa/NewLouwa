@@ -1,38 +1,54 @@
-# 👋 Hey there! I'm @NewLouwa
+# Hi there, I'm @NewLouwa 👋
+
+![Banner](https://img.shields.io/badge/Tech%20Enthusiast-Exploring%20New%20Technologies-blue?style=for-the-badge)
 
 ## 🚀 About Me
-I'm a passionate tech enthusiast dedicated to exploring and creating in various areas of technology. My interests include:
+I'm a tech enthusiast interested in exploring various areas of technology and software development.
 
-- **Artificial Intelligence**: Yes, I know it's a common buzzword—but the potential is endless!
-- **Scripting**: Crafting scripts that simplify tasks and automate processes.
-- **Web App Development & Web Coding**: Building dynamic, user-friendly applications for the web.
-- **Security**: Engaging in penetration testing, system hardening, and more to safeguard digital assets.
-- **Android Apps & Automation Scripts**: Developing applications to enhance mobile user experiences and efficiency.
-- **Microcontrollers (Arduinos)**: Exploring the world of physical computing with hands-on projects.
-- **Cryptography and Blockchain**: Diving into security and decentralized technologies.
-- **Spreading Knowledge**: Passionate about sharing what I learn with others.
-- **Open Source Intelligence**: Exploring and utilizing publicly available information.
-  
-### 🌱 Currently Learning
-I'm diving into several exciting areas to enhance my skills:
+## 💻 Areas of Interest
 
-- **System Administration**: Mastering server setups, automations, and seamless deployments.
-- **DevOps**: Developing CI/CD pipelines, embracing containerization with Docker and Kubernetes, and advancing infrastructure as code practices.
-- **Cybersecurity**: Strengthening web apps and systems against potential threats and attacks.
+```markdown
+# Skills & Interests
+├── Software Development
+│   ├── Web Application Development
+│   ├── Scripting & Automation
+│   └── Android Applications
+├── Systems & Infrastructure
+│   ├── Learning System Administration
+│   └── Exploring DevOps Tools & Practices
+├── Security
+│   ├── Penetration Testing
+│   ├── System Hardening
+│   ├── Open Source Intelligence (OSINT)
+│   └── Cryptography & Blockchain
+└── Hardware
+    ├── Microcontroller Projects (Arduino)
+    └── Physical Computing
+```
+
+## 🌱 Currently Learning
+
+![](https://img.shields.io/badge/-System%20Administration-informational)
+![](https://img.shields.io/badge/-DevOps-orange)
+![](https://img.shields.io/badge/-Cybersecurity-red)
+
+## 💡 What I Enjoy
+- Working on technical challenges
+- Creating practical solutions
+- Sharing knowledge with others
+
+## 🤝 Collaboration
+I'm interested in connecting with others on projects and learning opportunities. If you have ideas for collaboration, feel free to reach out!
+
+## 📫 Connect With Me
+- GitHub: [@NewLouwa](https://github.com/NewLouwa)
 
 ---
 
-## 💡 Collaborations
-I thrive on innovation and challenges! If you have an exciting tech project in mind, or if you’re looking for a collaborator, I’d love to connect and brainstorm.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NewLouwa&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
----
-
-## 📫 Let's Connect!
-While I can’t share my email just yet, I'm always eager to engage with fellow tech enthusiasts!
-
-Feel free to reach out through my profiles—let's exchange ideas and build something amazing together!
-- **GitHub**: [@NewLouwa](https://github.com/NewLouwa)
-
----
-
-Thank you for stopping by, and I look forward to connecting!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NewLouwa" alt="Profile views" />
+</p>
