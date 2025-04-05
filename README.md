@@ -69,6 +69,7 @@ I'm a tech enthusiast interested in exploring various areas of technology and so
 ## 🛠️ Projects & Contributions
 While I'm still building my portfolio, I'm working on:
 - Automating common administrative tasks with Python scripts
+- Anything i feel like need to be better 
 - Small web applications to practice full-stack development
 - Security tools for educational purposes
 - Arduino-based home automation prototypes
@@ -82,8 +83,8 @@ I'm interested in connecting with others on projects and learning opportunities.
 
 ## 📚 Resources I Recommend
 - 📖 Books: "The Phoenix Project", "Clean Code", "Web Application Hacker's Handbook"
-- 🎓 Learning Platforms: freeCodeCamp, HackTheBox, TryHackMe
-- 🎬 YouTube Channels: Computerphile, NetworkChuck, John Hammond
+- 🎓 Learning Platforms: HackTheBox, TryHackMe
+- 🎬 YouTube Channels: NetworkChuck, John Hammond
 
 ## 📫 Connect With Me
 - GitHub: [@NewLouwa](https://github.com/NewLouwa)
