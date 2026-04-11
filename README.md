@@ -10,7 +10,7 @@ Once upon a time I wrote HTML on actual paper during history class. My teacher w
 
 **Then Arduino happened.** ⚡ Made things blink. Made things beep. Made things that probably shouldn't have been plugged into a wall socket. Built an amp and a Bluetooth module trying to make a DIY Bluetooth speaker, it worked, kind of.
 
-**Web dev came next** and it wasn't a phase, it was like 6 years of my life. HTML, CSS, JS, frameworks on both sides, wanted to be a full stack dev. Then software dev, C, C++, C# for Unreal Engine, eventually settled on Python and now picking up Rust and Go.
+**Web dev came next** and it wasn't a phase, it was like 6 years of my life. HTML, CSS, JS, PHP, frameworks on both sides, wanted to be a full stack dev. Then software dev, C, C++, C# for Unreal Engine, eventually settled on Python and now picking up Rust and Go.
 
 Then one day I looked at everything I built and thought *"cool, but how do I break into it?"* 🔓
 
