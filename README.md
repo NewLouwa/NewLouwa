@@ -25,6 +25,7 @@ And that was the last day I called myself a developer.
 - 🏢 **Day job:** Sysadmin. Keeping servers alive, writing AD scripts, and stopping users from being their own worst enemy. Meat is always the weakest point and I try not to be A5 wagyu.
 - 🌙 **Night job:** HackTheBox, homelab, automating everything. Breaking into the things I protect during the day.
 - 🍪 **Personality trait:** If I have to do something more than twice, it becomes a script. I have automated Active Directory user management, system configs, and Cookie Clicker stock trading. I will not be taking questions on that last one.
+- 🔄 **Other personality trait:** When I need something, I build it from scratch, then realize someone already did it better and is hosting it for free. Every time.
 - 🎨 **Side quest:** Building ComfyUI custom nodes because every AI model has parameters it was trained with and finding them every time depending on the workflow is awful. I actually need to get back on that one.
 
 ---
@@ -69,7 +70,9 @@ And that was the last day I called myself a developer.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewLouwa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NewLouwa&theme=radical" alt="Repos per language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NewLouwa&theme=radical" alt="Most commit language" />
 </p>
 
 <p align="center">
