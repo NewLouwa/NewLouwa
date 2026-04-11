@@ -1,25 +1,35 @@
 # A sysadmin who peaked during the Minecraft server era
 
-I was writing `<html><body><h1>hello world</h1></body></html>` on paper in history class while my teacher was explaining World War I. That notebook is lost forever but the damage was already done.
+Once upon a time I wrote HTML on actual paper during history class. My teacher was talking about World War I. I was debugging a `<table>` layout. We were not the same.
 
-## How we got here
+---
 
-Age 12: ran a Minecraft server. Learned more about networking, Linux, and managing angry teenagers than any course could teach. Modded everything. If it had a config file, I edited it. If it didn't, I found one.
+## 🕹️ How we got here
 
-Then Arduino happened. Made things blink. Made things beep. Made things that probably shouldn't have been plugged into a wall socket. Built an amp and a Bluetooth module trying to make a DIY Bluetooth speaker — it worked, kind of. Electronics phase was fun.
+**Age 12:** Ran a Minecraft server. Learned more about networking, Linux, and managing angry teenagers than any course could teach. Modded everything. If it had a config file, I edited it. If it didn't, I found one.
 
-Web dev came next — and it wasn't a phase, it was like 6 years of my life. HTML, CSS, JS, frameworks on both sides, wanted to be a full stack dev. Then software dev — C, C++, C# for Unreal Engine, eventually settled on Python and now picking up Rust and Go. Then one day I looked at everything I built and thought "cool, but how do I break into it?" And that was the last day I called myself a developer.
+**Then Arduino happened.** ⚡ Made things blink. Made things beep. Made things that probably shouldn't have been plugged into a wall socket. Built an amp and a Bluetooth module trying to make a DIY Bluetooth speaker �� it worked, kind of.
 
-Hacking rabbit hole. Open source rabbit hole. Now I'm a sysadmin by paycheck and a pentester by passion — and honestly a newbie at it, but I wouldn't have it any other way.
+**Web dev came next** — and it wasn't a phase, it was like 6 years of my life. HTML, CSS, JS, frameworks on both sides, wanted to be a full stack dev. Then software dev — C, C++, C# for Unreal Engine, eventually settled on Python and now picking up Rust and Go.
 
-## What I'm actually doing
+Then one day I looked at everything I built and thought *"cool, but how do I break into it?"* 🔓
 
-- **Day job:** Sysadmin. Keeping servers alive, writing AD scripts, and stopping users from being their own worst enemy. Meat is always the weakest point and I try not to be A5 wagyu.
-- **Night job:** HackTheBox, homelab, automating everything. Breaking into the things I protect during the day.
-- **Personality trait:** If I have to do something more than twice, it becomes a script. I have automated Active Directory user management, system configs, and Cookie Clicker stock trading. I will not be taking questions on that last one.
-- **Side quest:** Building ComfyUI custom nodes — because every AI model has parameters it was trained with and finding them every time depending on the workflow is awful. I actually need to get back on that one.
+And that was the last day I called myself a developer.
 
-## The actual timeline
+**Hacking rabbit hole. Open source rabbit hole.** Now I'm a sysadmin by paycheck and a pentester by passion — and honestly a newbie at it, but I wouldn't have it any other way.
+
+---
+
+## 💻 What I'm actually doing
+
+- 🏢 **Day job:** Sysadmin. Keeping servers alive, writing AD scripts, and stopping users from being their own worst enemy. Meat is always the weakest point and I try not to be A5 wagyu.
+- 🌙 **Night job:** HackTheBox, homelab, automating everything. Breaking into the things I protect during the day.
+- 🍪 **Personality trait:** If I have to do something more than twice, it becomes a script. I have automated Active Directory user management, system configs, and Cookie Clicker stock trading. I will not be taking questions on that last one.
+- 🎨 **Side quest:** Building ComfyUI custom nodes — because every AI model has parameters it was trained with and finding them every time depending on the workflow is awful. I actually need to get back on that one.
+
+---
+
+## 📜 The timeline
 
 ```
 📓 HTML in notebooks during history class
@@ -33,22 +43,22 @@ Hacking rabbit hole. Open source rabbit hole. Now I'm a sysadmin by paycheck and
 🔵 Blue team (learning to defend it — because it goes both ways)
 ```
 
-## What I want to get into next
+---
 
-- **AI deeper** — not just ComfyUI nodes, understanding how models work under the hood and using them in security workflows
-- **Red teaming** — proper AD attacks, assumed breach scenarios, the stuff that keeps blue teams up at night
-- **Blue teaming too** — I want to break things to learn how to defend them better
-- **Cybersecurity full-time** — that's where this is all heading
-- **Automation everything** — if a human is doing it repeatedly, a machine should be doing it
-- **More open source** — I owe the community for everything I learned from it
+## 🔮 What's next
+
+- 🧠 **AI deeper** — not just ComfyUI nodes, understanding how models work under the hood and using them in security workflows
+- 🔴 **Red teaming** — proper AD attacks, assumed breach scenarios, the stuff that keeps blue teams up at night
+- 🔵 **Blue teaming too** — I want to break things to learn how to defend them better
+- 🎯 **Cybersecurity full-time** — that's where this is all heading
+- ⚙️ **Automation everything** — if a human is doing it repeatedly, a machine should be doing it
+- 🌍 **More open source** — I owe the community for everything I learned from it
 
 ---
 
-*I use AI to build faster. I don't use it to think for me. I wrote a whole page about it because apparently I have opinions — [AI-DISCLAIMER.md](https://github.com/NewLouwa/WSL-Parrot-Security/blob/main/AI-DISCLAIMER.md)*
+*🤖 I use AI to build faster. I don't use it to think for me. I wrote a whole page about it because apparently I have opinions — [AI-DISCLAIMER.md](https://github.com/NewLouwa/WSL-Parrot-Security/blob/main/AI-DISCLAIMER.md)*
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NewLouwa&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -62,8 +72,6 @@ Hacking rabbit hole. Open source rabbit hole. Now I'm a sysadmin by paycheck and
   <a href="https://github.com/NewLouwa">
     <img src="https://img.shields.io/github/followers/NewLouwa?label=Follow&style=social" alt="GitHub followers" />
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=NewLouwa" alt="Profile views" />
 </p>
