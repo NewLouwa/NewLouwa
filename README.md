@@ -32,7 +32,6 @@ And that was the last day I called myself a developer.
 
 ## 📜 The timeline
 
-```
 📓 HTML in notebooks during history class
 🎮 Minecraft servers (the real LPT: free sysadmin training)
 🌐 Web dev (age 13, learned localhost:8080 doesn't mean the internet can see it)
@@ -41,8 +40,6 @@ And that was the last day I called myself a developer.
 🤖 AI/ML (used it before it was cool, now running it locally on a GPU that sounds like a jet engine)
 🔵 Blue team (learning to defend it, because it goes both ways)
 💼 Sysadmin (got the keys before learning to pick the lock)
-```
-
 ---
 
 ## 🔮 What's next
