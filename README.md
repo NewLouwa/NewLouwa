@@ -35,13 +35,12 @@ And that was the last day I called myself a developer.
 ```
 📓 HTML in notebooks during history class
 🎮 Minecraft servers (the real LPT: free sysadmin training)
-⚡ Arduino & electronics (some things caught fire, most didn't)
-🌐 Web dev → software dev (6 years of building things)
-🐧 Open source (learned to share it)
-💼 Sysadmin (learned to keep it running)
-🤖 AI/ML (learned to make it generate things)
-🔴 Pentesting (learning to break it)
+🌐 Web dev (age 13, learned localhost:8080 doesn't mean the internet can see it)
+⚡ Arduino & electronics (meanwhile, some things caught fire)
+🔴 Pentesting (watched Mr. Robot and thought "wait, that's just me")
+🤖 AI/ML (used it before it was cool, now running it locally on a GPU that sounds like a jet engine)
 🔵 Blue team (learning to defend it, because it goes both ways)
+💼 Sysadmin (got the keys before learning to pick the lock)
 ```
 
 ---
