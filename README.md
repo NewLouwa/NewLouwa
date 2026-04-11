@@ -1,93 +1,50 @@
-# Hi there, I'm @NewLouwa 👋
+# A sysadmin who peaked during the Minecraft server era
 
-![Banner](https://img.shields.io/badge/Tech%20Enthusiast-Exploring%20New%20Technologies-blue?style=for-the-badge)
+I was writing `<html><body><h1>hello world</h1></body></html>` on paper in history class while my teacher was explaining World War I. That notebook is lost forever but the damage was already done.
 
-## 🚀 About Me
-I'm a tech enthusiast interested in exploring various areas of technology and software development. My journey in tech began with curiosity about how systems work and has evolved into a passion for building and securing digital solutions.
+## How we got here
 
-## 💻 Areas of Interest
+Age 12: ran a Minecraft server. Learned more about networking, Linux, and managing angry teenagers than any course could teach. Modded everything. If it had a config file, I edited it. If it didn't, I found one.
 
-```markdown
-# Skills & Interests
-├── Software Development
-│   ├── Web Application Development
-│   │   ├── Frontend (HTML, CSS, JavaScript)
-│   │   └── Backend Development
-│   ├── Scripting & Automation
-│   │   ├── Python
-│   │   ├── Bash
-│   │   └── PowerShell
-│   └── Android Applications
-│       ├── Java Development
-│       └── Kotlin Exploration
-├── Systems & Infrastructure
-│   ├── Learning System Administration
-│   │   ├── Linux Environments
-│   │   └── Windows Server
-│   └── Exploring DevOps Tools & Practices
-│       ├── Docker
-│       ├── CI/CD Pipelines
-│       └── Infrastructure as Code
-├── Security
-│   ├── Penetration Testing
-│   │   ├── Web Application Security
-│   │   └── Network Security
-│   ├── System Hardening
-│   │   ├── Endpoint Security
-│   │   └── Server Security
-│   ├── Open Source Intelligence (OSINT)
-│   └── Cryptography & Blockchain
-│       ├── Encryption Techniques
-│       └── Smart Contract Exploration
-└── Hardware
-    ├── Microcontroller Projects (Arduino)
-    │   ├── Sensors & Data Collection
-    │   └── Home Automation
-    └── Physical Computing
-        └── IoT Prototyping
+Then Arduino happened. Made things blink. Made things beep. Made things that probably shouldn't have been plugged into a wall socket. Built an amp and a Bluetooth module trying to make a DIY Bluetooth speaker — it worked, kind of. Electronics phase was fun.
+
+Web dev came next — and it wasn't a phase, it was like 6 years of my life. HTML, CSS, JS, frameworks on both sides, wanted to be a full stack dev. Then software dev — C, C++, C# for Unreal Engine, eventually settled on Python and now picking up Rust and Go. Then one day I looked at everything I built and thought "cool, but how do I break into it?" And that was the last day I called myself a developer.
+
+Hacking rabbit hole. Open source rabbit hole. Now I'm a sysadmin by paycheck and a pentester by passion — and honestly a newbie at it, but I wouldn't have it any other way.
+
+## What I'm actually doing
+
+- **Day job:** Sysadmin. Keeping servers alive, writing AD scripts, and stopping users from being their own worst enemy. Meat is always the weakest point and I try not to be A5 wagyu.
+- **Night job:** HackTheBox, homelab, automating everything. Breaking into the things I protect during the day.
+- **Personality trait:** If I have to do something more than twice, it becomes a script. I have automated Active Directory user management, system configs, and Cookie Clicker stock trading. I will not be taking questions on that last one.
+- **Side quest:** Building ComfyUI custom nodes — because every AI model has parameters it was trained with and finding them every time depending on the workflow is awful. I actually need to get back on that one.
+
+## The actual timeline
+
+```
+📓 HTML in notebooks during history class
+🎮 Minecraft servers (the real LPT: free sysadmin training)
+⚡ Arduino & electronics (some things caught fire, most didn't)
+🌐 Web dev → software dev (6 years of building things)
+🐧 Open source (learned to share it)
+💼 Sysadmin (learned to keep it running)
+🤖 AI/ML (learned to make it generate things)
+🔴 Pentesting (learning to break it)
+🔵 Blue team (learning to defend it — because it goes both ways)
 ```
 
-## 🌱 Currently Learning
+## What I want to get into next
 
-![](https://img.shields.io/badge/-System%20Administration-informational)
-![](https://img.shields.io/badge/-DevOps-orange)
-![](https://img.shields.io/badge/-Cybersecurity-red)
+- **AI deeper** — not just ComfyUI nodes, understanding how models work under the hood and using them in security workflows
+- **Red teaming** — proper AD attacks, assumed breach scenarios, the stuff that keeps blue teams up at night
+- **Blue teaming too** — I want to break things to learn how to defend them better
+- **Cybersecurity full-time** — that's where this is all heading
+- **Automation everything** — if a human is doing it repeatedly, a machine should be doing it
+- **More open source** — I owe the community for everything I learned from it
 
-### Current Focus Areas:
-- Deploying and maintaining cloud infrastructure on AWS and Azure
-- Implementing security best practices in web applications
-- Exploring container orchestration with Kubernetes
-- Building automation scripts for routine system tasks
+---
 
-## 💡 What I Enjoy
-- Working on technical challenges that require creative problem-solving
-- Creating practical solutions that make everyday tasks easier
-- Sharing knowledge with others and contributing to the tech community
-- Exploring emerging technologies and understanding their potential applications
-- Building projects that combine hardware and software elements
-
-## 🛠️ Projects & Contributions
-While I'm still building my portfolio, I'm working on:
-- Automating common administrative tasks with Python scripts
-- Anything i feel like need to be better 
-- Small web applications to practice full-stack development
-- Security tools for educational purposes
-- Arduino-based home automation prototypes
-
-## 🤝 Collaboration
-I'm interested in connecting with others on projects and learning opportunities. If you have ideas for collaboration, feel free to reach out! I'm particularly interested in:
-- Open source projects focused on security or automation
-- Learning groups for emerging technologies
-- Mentorship opportunities (both as mentor and mentee)
-- Hackathons and coding challenges
-
-## 📚 Resources I Recommend
-- 📖 Books: "The Phoenix Project", "Clean Code", "Web Application Hacker's Handbook"
-- 🎓 Learning Platforms: HackTheBox, TryHackMe
-- 🎬 YouTube Channels: NetworkChuck, John Hammond
-
-## 📫 Connect With Me
-- GitHub: [@NewLouwa](https://github.com/NewLouwa)
+*I use AI to build faster. I don't use it to think for me. I wrote a whole page about it because apparently I have opinions — [AI-DISCLAIMER.md](https://github.com/NewLouwa/WSL-Parrot-Security/blob/main/AI-DISCLAIMER.md)*
 
 ---
 
