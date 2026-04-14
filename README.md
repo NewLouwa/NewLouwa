@@ -64,7 +64,7 @@ Hacking rabbit hole. Open source rabbit hole. And then a decision that sounds ba
 
 ## 🤖 About the AI thing
 
-I use AI to build faster. I don't use it to think for me. I wrote a whole page about it because apparently I have opinions: [AI-DISCLAIMER.md]([./AI-DISCLAIMER.md](https://github.com/NewLouwa/WSL-Parrot-Security/blob/main/AI-DISCLAIMER.md))
+I use AI to build faster. I don't use it to think for me. I wrote a whole page about it because apparently I have opinions: [AI-DISCLAIMER.md](https://github.com/NewLouwa/WSL-Parrot-Security/blob/main/AI-DISCLAIMER.md))
 
 *...I swear I don't trust myself as much as this page makes it sound.*
 
